@@ -159,7 +159,7 @@ with display_column:
 designer_info = "Designed by: Team Zanzibar"
 
 # Team members' names
-team_members = ["Doe Edinam", "Enoch Taylor-Nketiah", "Kofi Asare Bamfo"]
+team_members = ["Doe Edinam Abla", "Enoch Taylor-Nketiah", "Kofi Asare Bamfo"]
 
 # Set up the layout with three columns
 col1, col2, col3 = st.columns([1, 2, 1])
