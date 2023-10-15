@@ -1,6 +1,6 @@
 # Favorita Retail Stores Sales Prediction App
 The Favorita Retail Stores Sales Prediction App is an advanced tool designed to empower retail businesses with data-driven insights. This application leverages machine learning techniques to provide accurate sales predictions, enabling businesses to optimize inventory, plan promotions effectively, and make informed decisions. Whether you're a small business owner or a retail manager, this app offers a powerful solution for forecasting sales trends and maximizing profitability.
-![image](https://github.com/doeabla/Sales_predict_app/assets/137217264/eba4c17c-133a-4d46-879c-09c35a0b99cc)
+![image](https://github.com/kojoboyoo/newStreamlit/blob/main)
 
  
 
@@ -35,12 +35,12 @@ Make sure you have the following installed:
 
 ## How It Works
 The app uses an XGBoost-based machine learning model trained on historical sales data. By providing relevant input parameters, the app predicts future sales for informed decision-making.
-![image](https://github.com/doeabla/Sales_predict_app/assets/137217264/48f7df9c-f153-44a0-abf0-0431dcfaa3ce)
+![image](https://github.com/kojoboyoo/newStreamlit/blob/main/sales_predict_app.py)
 
  
 
 ### Demo
-![image](https://github.com/doeabla/Sales_predict_app/assets/137217264/4a121425-526a-43e0-898c-03e80e93eeb1)
+![image](https://github.com/kojoboyoo/newStreamlit/blob/main/sales_predict_app.py)
 
  
 
