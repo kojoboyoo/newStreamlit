@@ -15,7 +15,7 @@ Make sure you have the following installed:
  
 
 ## Installation
-* clone [repository](https://github.com/doeabla/Sales_predict_app.git)
+* clone [repository](https://github.com/kojoboyoo/newStreamlit.git)
 * cd into file path where files are
 * Install Dependencies:pip install -r requirements.txt
 * Run the App:Strealit run sales_predict_app.py. The app will be accessible at [local host](http://localhost:8501/)
