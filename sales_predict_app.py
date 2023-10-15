@@ -37,7 +37,11 @@ st.markdown(
 
 
 # Specify the path to your image file
-image_path = "src\sales.png"
+
+#image_path = r"C:\Users\etnketiah\Documents\New_streamlit\sales.png"
+
+image_path = "C:\\Users\\etnketiah\\Documents\\New_streamlit\\sales.png"
+
 image = Image.open(image_path)
 
 # Set up the layout with three columns
@@ -90,7 +94,7 @@ with selection_column:
     selected_category = st.selectbox("Select Category", categories)
 
 # Load ML model
-folder_path = r'C:\Users\etnketiah\Documents\Azubi\New project\StreamliteLp\src\assets\ml'
+folder_path = r'C:\Users\etnketiah\Documents\New_streamlit'
 file_name = 'pipeline.pkl'
 ml_core_fp = os.path.join(folder_path, file_name)
 ml_comp_dict = load_ml_comp(fp=ml_core_fp)
